@@ -1,0 +1,162 @@
+
+/*-- scss:defaults --*/
+
+$lightblue: #5590B4;
+$darkblue: #003049;
+$offwhite: #F2F2F8;
+$brickred: #B51727;
+
+$teal: #20c997;
+$cyan: #029acf;
+$red: #d9230f;
+
+$primary: $lightblue;
+$navbar-hl: $brickred;
+
+$navbar-bg: $offwhite;
+$navbar-fg: $darkblue;
+$content-padding-top: 1rem;
+$bs-nav-link-padding-y: 0rem;
+
+
+/*-- scss:rules --*/
+
+// typography
+
+.paper-link {
+    font-weight: bold;
+}
+
+.my-name {
+    font-weight: bold;
+    font-size: large;
+}
+
+.navbar-title {
+    font-weight: 700; 
+    font-family: 'Inter', $font-family-sans-serif;
+}
+
+
+
+// spacing
+
+.opening-lines p {
+    margin-bottom: 1.5em;
+}
+
+.cv {
+    h3 {
+        margin-bottom: 1rem;
+        font-size: x-large;
+    }
+}
+
+
+.education {
+    ul li {
+        margin-bottom: 0.8rem;
+    }
+      
+      /* Remove spacing after the last list item */
+    ul li:last-child {
+        margin-bottom: 0;
+    }
+}
+
+.events { 
+    ul:not(ul ul) {
+        list-style-type: none; /* Hollow bullet */
+        padding-left: 0rem;
+    }
+  
+    ul ul {
+        margin-top: .3rem;
+        margin-bottom: .5rem;
+        list-style-type: disc; /* Filled bullet */
+        li {
+            font-size: medium;
+        }
+    }
+
+    ul li {
+        margin-bottom: 0.2rem;
+    }
+
+    ul > li {
+        font-size: large; /* Adjust to your desired size */
+    }
+}
+
+.about-contents {
+    padding-top: .5rem !important;
+}
+
+// navbar hover animation
+
+.nav-link:not(:has(.menu-text .google-scholar)):not(:has(.menu-text #mail-link)) {
+    @include media-breakpoint-up(lg) {
+        text-decoration: none; /* Remove default underline */
+        position: relative;    /* Ensure pseudo-elements position correctly */
+        
+        ::after {
+            content: "";
+            position: absolute;
+            left: 50%;
+            bottom: 12px;
+            height: 2px;
+            width: 0;
+            background-color: currentColor;
+            transition: width 0.3s ease, left 0.3s ease;
+            transform: translateX(-50%);
+        }
+        
+        :hover::after {
+            width: 75%;
+        }
+    }
+}
+
+
+// image responsivity
+
+.about-entity {
+    @include media-breakpoint-down(lg){
+        width: 100%; /* Full width of the container */
+        background-size: contain; /* Ensure the image covers the square box */
+        background-position: 30% 32%; /* Adjust the alignment to prioritize your head */
+
+        max-width: 400px; /* Set maximum width */
+        max-height: 400px;
+        aspect-ratio: 1 / 1; /* Ensures the height doesn't exceed a limit */
+        flex-shrink: 1 !important;
+        flex-grow: 0;
+
+        margin-bottom: 0em !important;
+        margin: 0 auto;
+    }    
+    @include media-breakpoint-up(lg) {
+        background-size: contain !important;
+        background-position: top right !important;
+    }
+}
+
+
+.quarto-about-broadside {
+    @include media-breakpoint-up(lg) {
+        padding-top: 2.2rem !important;
+    }
+    @include media-breakpoint-down(lg) {
+        padding-top: 15px !important;
+    }
+}
+
+// hide footnotes
+
+section#footnotes {
+    display: none !important;
+  }
+  
+  #quarto-appendix.default {
+      border-top: none !important;
+  }

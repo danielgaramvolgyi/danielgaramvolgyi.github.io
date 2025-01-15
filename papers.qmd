@@ -1,0 +1,61 @@
+Preprints
+------
+
+<ol reversed>  
+<li>**Stable cuts, NAC-colourings and flexible realisations of graphs**\
+(with Katie Clinch, John Haslegrave, Tony Huynh, Jan Legerský and Anthony Nixon), 2024. <a href="https://arxiv.org/abs/2412.16018" class="arxiv-link">(arXiv link)</a></li>
+<li>**Towards the Proximity Conjecture on Group-Labeled Matroids**\
+(with Ryuhei Mizutani, Taihei Oki, Tamás Schwarcz and Yutaro Yamaguchi), 2024. <a href="https://arxiv.org/abs/2411.06771" class="arxiv-link">(arXiv link)</a></li>
+<li>**Rigidity and reconstruction in matroids of highly connected graphs**, 2024. <a href="https://arxiv.org/abs/2410.23431" class="arxiv-link">(arXiv link)</a></li>
+<li>**Highly connected orientations from edge-disjoint rigid subgraphs**\
+(with Csaba Király, Tibor Jordán and Soma Villányi), 2024. <a href="https://arxiv.org/abs/2401.12670" class="arxiv-link">(arXiv link)</a></li>
+<li>**Stress-linked pairs of vertices and the generic stress matroid**, 2023. <a href="https://arxiv.org/abs/2308.16851" class="arxiv-link">(arXiv link)</a></li>
+</ol>  
+
+
+Journal Papers
+------
+
+<ol reversed> 
+<li><a href="https://doi.org/10.1137/23M157065X" class="paper-link"> Partial reflections and globally linked pairs in rigid graphs</a> (with Tibor Jordán),\
+*SIAM Journal on Discrete Mathematics*, 2024. <a href="https://arxiv.org/abs/2305.03412" class="arxiv-link">(arXiv link)</a></li>
+<li><a href="https://doi.org/10.1016/j.jctb.2023.12.004" class="paper-link">Count and cofactor matroids of highly connected graphs</a> (with Csaba Király and Tibor Jordán),\
+*Journal of Combinatorial Theory, Series B*, 2024. <a href="https://arxiv.org/abs/2202.11617" class="arxiv-link">(arXiv link)</a></li>
+<li><a href="https://doi.org/10.1016/j.ejc.2022.103626" class="paper-link">Minimally globally rigid graphs</a> (with Tibor Jordán),\
+*European Journal of Combinatorics*, 2023. <a href="https://arxiv.org/abs/2209.06204" class="arxiv-link">(arXiv link)</a></li>
+<li><a href="https://doi.org/10.1016/j.disc.2021.112687" class="paper-link">Global rigidity of (quasi-)injective frameworks on the line</a>,\
+*Discrete Mathematics*, 2022.
+<li><a href="https://doi.org/10.1017/fms.2022.44 " class="paper-link">Globally rigid graphs are fully reconstructible</a> (with Steven Gortler and Tibor Jordán),\
+*Forum of Mathematics, Sigma*, 2022. <a href="https://arxiv.org/abs/2105.04363" class="arxiv-link">(arXiv link)</a></li>
+<li><a href="https://doi.org/10.1016/j.dam.2021.06.007" class="paper-link">On the global rigidity of tensegrity graphs</a>,\
+*Discrete Applied Mathematics*, 2021.
+<li><a href="https://doi.org/10.1007/s00454-021-00275-7" class="paper-link">Graph reconstruction from unlabeled edge lengths</a> (with Tibor Jordán),\
+*Discrete & Computational Geometry*, 2021.</li>
+<li><a href="https://doi.org/10.1137/18M1220662" class="paper-link">Global Rigidity of Unit Ball Graphs</a> (with Tibor Jordán),\
+*SIAM Journal on Discrete Mathematics*, 2020.</li>
+</ol>  
+
+
+
+Conference papers
+------
+
+<ol reversed>
+<li>**Algebraic realizations of pairs of closure operators**,\
+*12th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications*, Budapest, 2023.</li>
+<li><a href="https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_47.pdf" class="paper-link">Globally linked pairs in braced maximal outerplanar graphs</a> (with Tibor Jordán),\
+*34th Canadian Conference on Computational Geometry*, Toronto, 2022.</li>
+<li>**Algebraic matroids and global rigidity**,\
+*Developments in Computer Science*, Budapest, 2021.</li>
+</ol>
+
+
+<!-- 
+Miscellaneous writings
+------
+
+<ol reversed>
+<li><a href="https://egres.elte.hu/www/qp-19-03.html"  class="paper-link">Extensions of unit ball globally rigid graphs</a>,\
+*EGRES Quick-Proofs series*, 2019.</li>
+</ol>
+ -->

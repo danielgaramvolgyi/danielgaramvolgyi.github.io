@@ -1,0 +1,43 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const responsiveLabel = document.querySelector(".google-scholar");
+  
+    function updateLabel() {
+      if (window.innerWidth < 992) { // Define the breakpoint (e.g., 768px)
+        responsiveLabel.innerHTML = 'Google Scholar profile (link)';
+      } else {
+        responsiveLabel.innerHTML = '<i class="fa-brands fa-google-scholar fa-lg"></i>';
+      }
+    }
+  
+    // Run on page load
+    updateLabel();
+  
+    // Run whenever the window is resized
+    window.addEventListener("resize", updateLabel);
+  });
+
+  document.addEventListener("DOMContentLoaded", function () {
+    function updateNavbar() {
+      // Target specific navbar elements by ID
+      const navItem1 = document.getElementById("mail-link").parentElement.parentElement;
+  
+      if (window.innerWidth < 992) { // Define the breakpoint (e.g., 768px)
+        if (navItem1) navItem1.style.display = "none"; // Hide the element
+      } else {
+        if (navItem1) navItem1.style.display = ""; // Reset to default
+      }
+    }
+  
+    // Run on page load
+    updateNavbar();
+  
+    // Run whenever the window is resized
+    window.addEventListener("resize", updateNavbar);
+  });
+  </script>

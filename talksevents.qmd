@@ -1,0 +1,71 @@
+Selected talks
+------
+
+
+- **Stress-linked pairs of vertices** ([slides](/files/202409_shonan_longtalk.pdf){.slide-link})\
+*NII Shonan Meeting on Theory and Algorithms in Graph Rigidity and Algebraic Statistics*\
+Shonan Village Center, Japan. September 2--6, 2024. 
+- **Rigidity and reconstruction in matroids of highly connected graphs** ([slides](/files/202408_korea.pdf){.slide-link})\
+*2024 Workshop on (Mostly) Matroids*\
+IBS, Daejeon. August 19--23, 2024. 
+- **Partial reflections and globally linked pairs in rigid graphs** ([slides](/files/202308_partialreflections.pdf){.slide-link}, [video recording](https://www.youtube.com/watch?v=wCfQJCr6HaY){.video-link})\
+*Workshop on Constraint Systems: Distance Geometry, Structured Polynomials, Matrix Completion and Kinematics*\
+Fields Institute, Toronto. August 8--11, 2023. 
+- **Minimally globally rigid graphs**  ([slides](/files/202307_minglobrigid.pdf){.slide-link}, [video recording](https://www.youtube.com/watch?v=hO9Qjv7-fZA){.video-link})\
+*Workshop on Geometric Constraints: Materials, Graphs and Matroids, Rigidity and Packings*\
+Fields Institute, Toronto. July 10--14, 2023.
+- **Algebraic realizations of pairs of closure operators** ([slides](/files/202303_jh.pdf){.slide-link})\
+*12th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications*\
+ELTE, Budapest. March 21--24, 2023. 
+- **Globally rigid graphs are fully reconstructible** ([slides](/files/202106_fullyreconstructible.pdf){.slide-link})\
+*Research Seminar of the Thematic Program on Geometric Constraint Systems, Framework Rigidity, and Distance Geometry*\
+Fields Institute, Toronto. June 30, 2021. (online) 
+- **Global rigidity of unit ball graphs** ([slides](/files/201906_unitball.pdf){.slide-link})\
+*Geometric constraint systems: rigidity, flexibility and applications*\
+Lancaster University, Lancaster. June 11--14, 2019. 
+
+
+
+
+<!---
+Other talks
+------
+
+
+1. Rigidity and reconstruction in matroids of highly connected graphs, seminar of the Egerváry Research Group on Combinatorial Optimization, ELTE, Budapest. October 7, 2024.
+1. Rigidity and reconstruction in matroids of highly connected graphs, NII Shonan Meeting on Theory and Algorithms in Graph Rigidity and Algebraic Statistics, Shonan Village Center, Japan. September 2-6, 2024. ([slides](/files/shonan_shorttalk.pdf))
+6. Graph rigidity and the maximum likelihood threshold, seminar of the Egerváry Research Group on Combinatorial Optimization, ELTE, Budapest. November 8, 2021.
+1. The unlabeled reconstruction problem in one dimension, seminar of the Egerváry Research Group on Combinatorial Optimization, ELTE, Budapest. September 21, 2020. (online)
+7. Global rigidity of unit ball graphs, seminar of the Egerváry Research Group on Combinatorial Optimization, ELTE, Budapest. November 11, 2018.
+-->
+
+::: events
+
+Events
+------
+
+
+- **2025**
+    - *(planned)* May 26--29: **invited speaker** at the [13th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications](https://sites.google.com/view/hj2025/home){.event-link} in Tokyo.
+    - *(planned)* January 29 -- May 2: **semester postdoc** at the [Geometry of Materials, Packings and Rigid Frameworks](https://icerm.brown.edu/programs/sp-s25){.event-link} program at ICERM, Providence.
+        - *(planned)* March 17--25: **invited speaker** at the [Matroids, rigidity, and algebraic statistics](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w2){.event-link} workshop at ICERM, Providence.
+- **2024**
+    - September 2--6: **speaker** at the [NII Shonan Meeting on Theory and Algorithms in Graph Rigidity and Algebraic Statistics](https://shonan.nii.ac.jp/seminars/211/){.event-link} meeting at Shonan Village Center, Japan.
+    - August 19--23: **speaker** at the [2024 Workshop on (Mostly) Matroids](https://indico.ibs.re.kr/e/wmm2024){.event-link} at IBS, Daejeon.
+    - July 22--26: **participant** at a [Research-in-Groups](https://www.icms.org.uk/funding-opportunities/research-groups-rigs){.event-link} focused research program at ICMS, Edinburgh. 
+    - July 14--18: **participant** at the [16th Emléktábla Workshop](https://www.renyi.hu/~emlektab/index.html){.event-link} in Vác, Hungary.
+    - April 8--12: **participant** at the [Rigidity in Action](https://www.ricam.oeaw.ac.at/specsem/specsem2024/workshop3/){.event-link} workshop at RICAM, Linz.
+    - March 4--13: **participant** at the [Landscapes of rigidity](https://www.ricam.oeaw.ac.at/specsem/specsem2024/workshop1/){.event-link} and the [Code of rigidity](https://www.ricam.oeaw.ac.at/specsem/specsem2024/workshop2/){.event-link} workshops at RICAM, Linz.
+- **2023**
+    - July 10 -- August 12: **long-term participant** at the [Focus Program on Geometric Constraint Systems](http://www.fields.utoronto.ca/activities/23-24/constraint){.event-link} at the Fields Institute, Toronto.
+        - August 8--11: **speaker** at the [Workshop on Constraint Systems: Distance Geometry, Structured Polynomials, Matrix Completion and Kinematics](http://www.fields.utoronto.ca/activities/23-24/constraint-systems){.event-link} at the Fields Institute, Toronto.
+        - July 10--14: **speaker** at the [Workshop on Geometric Constraints: Materials, Graphs and Matroids, Rigidity and Packings](http://www.fields.utoronto.ca/activities/23-24/constraint-materials){.event-link} at the Fields Institute, Toronto.
+    - March 21--24: **speaker** at the [12th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications](https://cs.bme.hu/~jh2023/){.event-link}, Budapest.
+- **2022**
+    - July 4--8: **participant** at the [12th Emléktábla Workshop](https://www.renyi.hu/~emlektab/1112th_emlektabla.html){.event-link} in Gárdony, Hungary.
+- **2020**
+    - January 13--17: **participant** at the [Discrete structures 2020](https://www.lancaster.ac.uk/maths/discrete-structures-2020/){.event-link} workshop at Lancaster University, Lancaster.
+- **2019**
+    - June 11--14: **speaker** at the [Geometric constraint systems: rigidity, flexibility and applications](https://www.lancaster.ac.uk/maths/research/conferences/previous-conferences/geometric-constraint-systems-2019/){.event-link} conference at Lancaster University, Lancaster.
+
+:::

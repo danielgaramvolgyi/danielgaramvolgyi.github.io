@@ -1,0 +1,39 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+
+website:
+  title: "Dániel Garamvölgyi"
+  navbar:
+    pinned: false
+    search: false
+    left:
+      - href: papers.qmd
+        text: Publications
+      - href: talksevents.qmd
+        text: Talks/Events
+    right:
+      - href: cv.qmd
+        text: CV
+      - text: "<span class='google-scholar'>{{< fa brands google-scholar size=lg >}}</span>"
+        href: https://scholar.google.com/citations?user=fx_EDksAAAAJ&hl=en
+        target: _blank
+      - text: "<span id='mail-link'>{{< fa envelope size=lg >}}</span>"
+        href: mailto:daniel.garamvolgyi@ttk.elte.hu
+      # - text: "{{< ai arxiv size=lg >}}"
+      #   href: https://arxiv.org/search/math?searchtype=author&query=Garamv%C3%B6lgyi,+D
+      #   target: _blank
+
+format:
+  html:
+    include-in-header: "js.html"
+    anchor-sections: false
+    smooth-scroll: true
+    theme:
+      - simplex
+      - styles.scss
+
+
+
