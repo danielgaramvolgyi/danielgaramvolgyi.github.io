@@ -9,7 +9,7 @@ about:
 
 :::{.opening-lines}
 My name is [Dániel Garamvölgyi]{.my-name}.^[You can safely disregard the accent in my forename and just call me Daniel.
-My surname is tricky, and I don't mind if you mispronounce it. If you want to, you can [listen to the correct pronunciation on forvo](https://forvo.com/word/garamv%C3%B6lgyi/){:target="_blank"}.]\
+My surname is tricky, and I don't mind if you mispronounce it. If you want to, you can <a href=https://forvo.com/word/garamv%C3%B6lgyi/ target="_blank">listen to the correct pronunciation on forvo</a>.]\
 I am a [mathematician]{.my-name}.
 
 I recently defended my PhD at [ELTE](https://www.math.elte.hu/en/) (Budapest, Hungary).\
