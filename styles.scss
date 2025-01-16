@@ -19,9 +19,16 @@ $content-padding-top: 1rem;
 $bs-nav-link-padding-y: 0rem;
 
 
+$font-size-root: 1rem;
+
+
 /*-- scss:rules --*/
 
 // typography
+
+#quarto-header {
+    font-size: 1.0625rem !important;
+}
 
 .paper-link {
     font-weight: bold;
@@ -29,12 +36,15 @@ $bs-nav-link-padding-y: 0rem;
 
 .my-name {
     font-weight: bold;
-    font-size: large;
+    font-size: 105%;
 }
 
 .navbar-title {
     font-weight: 700; 
     font-family: 'Inter', $font-family-sans-serif;
+    @include media-breakpoint-down(sm){
+        letter-spacing: -.05em;
+    }
 }
 
 
@@ -42,7 +52,7 @@ $bs-nav-link-padding-y: 0rem;
 // spacing
 
 .opening-lines p {
-    margin-bottom: 1.5em;
+    margin-bottom: 1.5rem;
 }
 
 .cv {
@@ -58,7 +68,6 @@ $bs-nav-link-padding-y: 0rem;
         margin-bottom: 0.8rem;
     }
       
-      /* Remove spacing after the last list item */
     ul li:last-child {
         margin-bottom: 0;
     }
@@ -66,14 +75,14 @@ $bs-nav-link-padding-y: 0rem;
 
 .events { 
     ul:not(ul ul) {
-        list-style-type: none; /* Hollow bullet */
+        list-style-type: none;
         padding-left: 0rem;
     }
   
     ul ul {
         margin-top: .3rem;
         margin-bottom: .5rem;
-        list-style-type: disc; /* Filled bullet */
+        list-style-type: disc;
         li {
             font-size: medium;
         }
@@ -84,7 +93,7 @@ $bs-nav-link-padding-y: 0rem;
     }
 
     ul > li {
-        font-size: large; /* Adjust to your desired size */
+        font-size: large;
     }
 }
 
@@ -96,15 +105,15 @@ $bs-nav-link-padding-y: 0rem;
 
 .nav-link:not(:has(.menu-text .google-scholar)):not(:has(.menu-text #mail-link)) {
     @include media-breakpoint-up(lg) {
-        text-decoration: none; /* Remove default underline */
-        position: relative;    /* Ensure pseudo-elements position correctly */
+        text-decoration: none;
+        position: relative;   
         
         ::after {
             content: "";
             position: absolute;
             left: 50%;
-            bottom: 12px;
-            height: 2px;
+            bottom: 0.75rem;
+            height: 0.125rem;
             width: 0;
             background-color: currentColor;
             transition: width 0.3s ease, left 0.3s ease;
@@ -122,13 +131,13 @@ $bs-nav-link-padding-y: 0rem;
 
 .about-entity {
     @include media-breakpoint-down(lg){
-        width: 100%; /* Full width of the container */
-        background-size: contain; /* Ensure the image covers the square box */
-        background-position: 30% 32%; /* Adjust the alignment to prioritize your head */
+        width: 100%;
+        background-size: contain;
+        background-position: 30% 32%; 
 
-        max-width: 400px; /* Set maximum width */
+        max-width: 400px;
         max-height: 400px;
-        aspect-ratio: 1 / 1; /* Ensures the height doesn't exceed a limit */
+        aspect-ratio: 1 / 1;
         flex-shrink: 1 !important;
         flex-grow: 0;
 
@@ -144,10 +153,10 @@ $bs-nav-link-padding-y: 0rem;
 
 .quarto-about-broadside {
     @include media-breakpoint-up(lg) {
-        padding-top: 2.2rem !important;
+        padding-top: 35px !important;
     }
     @include media-breakpoint-down(lg) {
-        padding-top: 15px !important;
+        padding-top: 16px !important;
     }
 }
 

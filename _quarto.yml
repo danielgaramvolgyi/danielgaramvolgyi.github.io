@@ -22,9 +22,6 @@ website:
         target: _blank
       - text: "<span id='mail-link'>{{< fa envelope size=lg >}}</span>"
         href: mailto:daniel.garamvolgyi@ttk.elte.hu
-      # - text: "{{< ai arxiv size=lg >}}"
-      #   href: https://arxiv.org/search/math?searchtype=author&query=Garamv%C3%B6lgyi,+D
-      #   target: _blank
 
 format:
   html:
