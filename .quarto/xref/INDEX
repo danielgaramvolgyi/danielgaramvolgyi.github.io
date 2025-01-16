@@ -1,18 +1,14 @@
 {
+  "cv.qmd": {
+    "cv.html": "13858224"
+  },
   "index.qmd": {
-    "index.html": "669005df"
-  },
-  "about.qmd": {
-    "about.html": "221bec1f"
-  },
-  "talksevents.qmd": {
-    "talksevents.html": "a05bd275"
+    "index.html": "06ce2a69"
   },
   "papers.qmd": {
-    "papers.html": "fc3a4c5b",
-    "papers.md": "2a9d8682"
+    "papers.html": "2e7cee86"
   },
-  "cv.qmd": {
-    "cv.html": "1782b3cb"
+  "talksevents.qmd": {
+    "talksevents.html": "7bd1bf00"
   }
 }
