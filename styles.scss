@@ -135,8 +135,8 @@ $font-size-root: 1rem;
         background-size: contain;
         background-position: 30% 32%; 
 
-        max-width: 400px;
-        max-height: 400px;
+        max-width: 380px;
+        max-height: 380px;
         aspect-ratio: 1 / 1;
         flex-shrink: 1 !important;
         flex-grow: 0;
@@ -153,7 +153,7 @@ $font-size-root: 1rem;
 
 .quarto-about-broadside {
     @include media-breakpoint-up(lg) {
-        padding-top: 35px !important;
+        padding-top: 32px !important;
     }
     @include media-breakpoint-down(lg) {
         padding-top: 16px !important;
@@ -162,10 +162,8 @@ $font-size-root: 1rem;
 
 // hide footnotes
 
-section#footnotes {
-    display: none !important;
-  }
   
   #quarto-appendix.default {
       border-top: none !important;
+      display: none !important;
   }
