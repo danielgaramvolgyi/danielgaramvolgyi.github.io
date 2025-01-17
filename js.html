@@ -4,33 +4,17 @@
 
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-    const responsiveLabel = document.querySelector(".google-scholar");
-  
-    function updateLabel() {
-      if (window.innerWidth < 992) { // Define the breakpoint (e.g., 768px)
-        responsiveLabel.innerHTML = 'Google Scholar profile (link)';
-      } else {
-        responsiveLabel.innerHTML = '<i class="fa-brands fa-google-scholar fa-lg"></i>';
-      }
-    }
-  
-    // Run on page load
-    updateLabel();
-  
-    // Run whenever the window is resized
-    window.addEventListener("resize", updateLabel);
-  });
 
   document.addEventListener("DOMContentLoaded", function () {
     function updateNavbar() {
-      // Target specific navbar elements by ID
       const navItem1 = document.getElementById("mail-link").parentElement.parentElement;
-  
-      if (window.innerWidth < 992) { // Define the breakpoint (e.g., 768px)
-        if (navItem1) navItem1.style.display = "none"; // Hide the element
+      const navItem2 = document.querySelector(".google-scholar").parentElement.parentElement;  
+      if (window.innerWidth < 992) {
+        if (navItem1) navItem1.style.display = "none";
+        if (navItem2) navItem2.style.display = "none";
       } else {
-        if (navItem1) navItem1.style.display = ""; // Reset to default
+        if (navItem1) navItem1.style.display = "";
+        if (navItem2) navItem2.style.display = "";
       }
     }
   

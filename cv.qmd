@@ -8,6 +8,7 @@ Short CV
 
 **Nationality:** Hungarian\
 **Research interests:** combinatorial rigidity theory, discrete geometry, matroid theory, graph theory, algebraic geometry\
+**Email:** [daniel.garamvolgyi@ttk.elte.hu](mailto:daniel.garamvolgyi@ttk.elte.hu)\
 **ORCID:** <https://orcid.org/0000-0002-8468-6585>\
 **Arxiv ID:** <https://arxiv.org/a/0000-0002-8468-6585>\
 **Google Scholar:** <https://scholar.google.com/citations?user=fx_EDksAAAAJ>\ 
