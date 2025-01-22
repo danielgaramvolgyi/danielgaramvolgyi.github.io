@@ -1,5 +1,7 @@
 ::: cv
 
+See my full CV [here (pdf)](files/DG_cv_202501.pdf){.paper-link}.
+
 Short CV
 ------
 
@@ -7,7 +9,8 @@ Short CV
 
 
 **Nationality:** Hungarian\
-**Research interests:** combinatorial rigidity theory, discrete geometry, matroid theory, graph theory, algebraic geometry\
+**Research interests:** combinatorial rigidity theory, structural graph theory, matroid theory, discrete geometry, (applied)
+algebraic geometry.\
 **Email:** [daniel.garamvolgyi@ttk.elte.hu](mailto:daniel.garamvolgyi@ttk.elte.hu)\
 **ORCID:** <https://orcid.org/0000-0002-8468-6585>\
 **Arxiv ID:** <https://arxiv.org/a/0000-0002-8468-6585>\
@@ -17,10 +20,10 @@ Short CV
 
 ### Professional Experience
 
-- January -- May 2025: **Semester Postdoc** at [ICERM](https://icerm.brown.edu/), Providence
-- September 2024 -- August 2025: **Postdoc** at the [MTA-ELTE Matroid Optimization Research Group](https://berkri.web.elte.hu/memmorg/), ELTE, Budapest
-- September 2023 -- August 2025: **Predoctoral Fellow** at the [Alfréd Rényi Institute](https://renyi.hu/en), Budapest
-- September 2020 -- March 2024: **Assistant Research Fellow** at the [Egerváry Research Group on Combinatorial Optimization](https://egres.elte.hu/), ELTE, Budapest
+- January -- May 2025: **Semester Postdoc**, [ICERM](https://icerm.brown.edu/), Providence
+- September 2024 -- August 2025: **Research Associate**, [MTA-ELTE Matroid Optimization Research Group](https://berkri.web.elte.hu/memmorg/), Budapest
+- September 2023 -- August 2025: **Predoctoral Fellow**, [Alfréd Rényi Institute of Mathematics](https://renyi.hu/en), Budapest
+- September 2020 -- March 2024: **Research Assistan**, [Egerváry Research Group on Combinatorial Optimization](https://egres.elte.hu/), Budapest
 
 :::
 
@@ -28,14 +31,14 @@ Short CV
 
 ### Education
 
-- 2019 -- 2024: **PhD in Mathematics** at ELTE, Budapest\
-    Supervisor: Tibor Jordán\
+- 2019 -- 2024: **PhD in Mathematics**, Eötvös Loránd University, Budapest\
+    Supervisor: Tibor Jordán &nbsp; &nbsp; &nbsp;  Grade: *summa cum laude*\
     Thesis title: **Unique reconstruction problems in rigidity theory** ([slides](/files/202412_defense.pdf){.slide-link} of defense talk)
-- 2016 -- 2019: **MSc in Mathematics** at ELTE, Budapest\
-    5.0 cumulative GPA (in a system of 1 to 5), graduated with honours\
+- 2016 -- 2019: **MSc in Mathematics**, Eötvös Loránd University, Budapest\
+    GPA: 5.0/5.0, graduated with honors\
     Thesis title: **Unlabeled graph realizability**
-- 2013 -- 2016: **BSc in Mathematics** at ELTE, Budapest\
-    4.8 cumulative GPA (in a system of 1 to 5), graduated with honours\
+- 2013 -- 2016: **BSc in Mathematics**, Eötvös Loránd University, Budapest\
+    GPA: 4.8/5.0, graduated with honors\
     Thesis title: [Factor of i.i.d. processes and regular graphs](https://web.cs.elte.hu/blobs/diplomamunkak/bsc_mat/2016/garamvolgyi_daniel.pdf){.paper-link}
 
 :::
@@ -45,9 +48,9 @@ Short CV
 <!-- - July 2024: [Research-in-Groups](https://www.icms.org.uk/funding-opportunities/research-groups-rigs) -->
 - September 2024: **HUN-REN Mobility Program** travel grant
 - December 2023: **Géza Grünwald Commemorative Prize** of the János Bolyai Mathematical Society
-<!-- - Fields travel grant -->
+- January 2023: **Focus Program on Geometric Constraint Systems** travel grant
 - 2019, 2021, 2022: **New National Excellence Programme (ÚNKP)** research grant
-- 2018 – 2021: **Human Resources Development Operational Programme (EFOP)** research grant
+- 2018 – 2021: **Human Resources Development Operational Programme (EFOP)** scholarship
 
 
 :::

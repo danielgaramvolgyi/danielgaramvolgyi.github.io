@@ -20,9 +20,9 @@ Journal Papers
 <li><a href="https://doi.org/10.1137/23M157065X" class="paper-link"> Partial reflections and globally linked pairs in rigid graphs</a> (with Tibor Jordán),\
 *SIAM Journal on Discrete Mathematics*, 2024. <a href="https://arxiv.org/abs/2305.03412" class="arxiv-link">(arXiv link)</a></li>
 <li><a href="https://doi.org/10.1016/j.jctb.2023.12.004" class="paper-link">Count and cofactor matroids of highly connected graphs</a> (with Csaba Király and Tibor Jordán),\
-*Journal of Combinatorial Theory, Series B*, 2024. <a href="https://arxiv.org/abs/2202.11617" class="arxiv-link">(arXiv link)</a></li>
+*Journal of Combinatorial Theory, Series B*, 2024. <a href="https://arxiv.org/abs/2209.06204" class="arxiv-link">(arXiv link)</a></li>
 <li><a href="https://doi.org/10.1016/j.ejc.2022.103626" class="paper-link">Minimally globally rigid graphs</a> (with Tibor Jordán),\
-*European Journal of Combinatorics*, 2023. <a href="https://arxiv.org/abs/2209.06204" class="arxiv-link">(arXiv link)</a></li>
+*European Journal of Combinatorics*, 2023. <a href="https://arxiv.org/abs/2202.11617" class="arxiv-link">(arXiv link)</a></li>
 <li><a href="https://doi.org/10.1016/j.disc.2021.112687" class="paper-link">Global rigidity of (quasi-)injective frameworks on the line</a>,\
 *Discrete Mathematics*, 2022.
 <li><a href="https://doi.org/10.1017/fms.2022.44 " class="paper-link">Globally rigid graphs are fully reconstructible</a> (with Steven Gortler and Tibor Jordán),\

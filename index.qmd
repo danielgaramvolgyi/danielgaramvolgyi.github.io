@@ -12,7 +12,7 @@ My name is [Dániel Garamvölgyi]{.my-name}.^[You can safely disregard the accen
 My surname is tricky, and I don't mind if you mispronounce it. If you want to, you can <a href=https://forvo.com/word/garamv%C3%B6lgyi/ target="_blank">listen to the correct pronunciation on forvo</a>.]\
 I am a [mathematician]{.my-name}.
 
-I recently defended my PhD at [ELTE](https://www.math.elte.hu/en/) (Budapest, Hungary).\
+I recently defended my PhD at the [Eötvös Loránd University](https://www.math.elte.hu/en/).\
 Currently, I am a **predoctoral fellow** at the [Alfréd Rényi Institute of Mathematics](https://www.renyi.hu/en).
 I will also serve as a **semester postdoc** at [ICERM](https://icerm.brown.edu/) from late January until early May. 
 
@@ -20,7 +20,8 @@ My primary research area is **combinatorial rigidity theory**.\
 Somewhat reductively, it is about a family of particularly interesting matroids, equipped with a particularly interesting representation.
 It is an area that can be studied using a wide variety of tools, both geometric and combinatorial. It also has many applications within and outside of mathematics.
 
-More broadly, I am interested in **graph theory**, **matroid theory**, and **algebraic geometry**, as well as the interplay between them. In particular, I like to study certain geometric problems by looking at them through the lens of matroid theory.
+More broadly, I am interested in **graph theory**, **matroid theory**, and **algebraic geometry**; and above all, in the interplay between these areas. 
+<!-- I like algebraic matroids, which allow study certain geometric problems by looking at them through the lens of matroid theory. -->
 
 Outside of mathematics, I enjoy rock climbing, hiking in the mountains, playing and writing music, books, movies, etc.
 
