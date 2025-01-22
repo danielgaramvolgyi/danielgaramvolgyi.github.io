@@ -20,7 +20,7 @@ My primary research area is **combinatorial rigidity theory**.\
 Somewhat reductively, it is about a family of particularly interesting matroids, equipped with a particularly interesting representation.
 It is an area that can be studied using a wide variety of tools, both geometric and combinatorial. It also has many applications within and outside of mathematics.
 
-More broadly, I am interested in **graph theory**, **matroid theory**, and **algebraic geometry**; and above all, in the interplay between these areas. 
+More broadly, I am interested in **graph theory**, **matroid theory**, **algebraic geometry**, and above all, in the interplay between these areas. 
 <!-- I like algebraic matroids, which allow study certain geometric problems by looking at them through the lens of matroid theory. -->
 
 Outside of mathematics, I enjoy rock climbing, hiking in the mountains, playing and writing music, books, movies, etc.
