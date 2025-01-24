@@ -1,5 +1,6 @@
 project:
   type: website
+    site-url: "https://danielgaramvolgyi.github.io/"
 
 execute:
   freeze: auto
