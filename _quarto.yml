@@ -1,12 +1,14 @@
 project:
   type: website
-    site-url: "https://danielgaramvolgyi.github.io/"
+
 
 execute:
   freeze: auto
 
 website:
   title: "Dániel Garamvölgyi"
+  site-url: "https://danielgaramvolgyi.github.io/"
+  site-path: '/'
   navbar:
     pinned: false
     search: false
