@@ -13,8 +13,8 @@ My surname is tricky, and I don't mind if you mispronounce it. If you want to, y
 I am a [mathematician]{.my-name}.
 
 I recently defended my PhD at the [Eötvös Loránd University](https://www.math.elte.hu/en/).\
-Currently, I am a **predoctoral fellow** at the [Alfréd Rényi Institute of Mathematics](https://www.renyi.hu/en).
-I will also serve as a **semester postdoc** at [ICERM](https://icerm.brown.edu/) from late January until early May. 
+Currently, I serve as a **semester postdoc** at [ICERM](https://icerm.brown.edu/).\
+In May, I will resume my role as a **research fellow** at the [Alfréd Rényi Institute of Mathematics](https://www.renyi.hu/en).
 
 My primary research area is **combinatorial rigidity theory**.\
 Somewhat reductively, it is about a family of particularly interesting matroids, equipped with a particularly interesting representation.
@@ -23,7 +23,7 @@ It is an area that can be studied using a wide variety of tools, both geometric 
 More broadly, I am interested in **graph theory**, **matroid theory**, **algebraic geometry**, and above all, in the interplay between these areas. 
 <!-- I like algebraic matroids, which allow study certain geometric problems by looking at them through the lens of matroid theory. -->
 
-Outside of mathematics, I enjoy rock climbing, hiking in the mountains, playing and writing music, books, movies, etc.
+Outside of mathematics, I enjoy rock climbing, hiking in the mountains, playing and writing music, books, movies, ...
 
 Feel free to contact me: [daniel.garamvolgyi@ttk.elte.hu](mailto:daniel.garamvolgyi@ttk.elte.hu){.paper-link}
 :::
