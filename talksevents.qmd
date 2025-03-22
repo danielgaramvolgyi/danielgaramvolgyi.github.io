@@ -51,6 +51,7 @@ Events
     - *(planned)* June 16--20: **invited speaker** at the [10th Conference on Geometry: Theory and Applications (CGTA 2025), Kinematics Minisymposium](https://conference.uni-sopron.hu/cgta2025){.event-link}, University of Sopron, Budapest, Hungary
     - *(planned)* May 26--29: **invited speaker** at the [13th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications](https://sites.google.com/view/hj2025/home){.event-link}, Tokyo Institute of Technology, Tokyo, Japan
     - January 29 -- May 2: **semester postdoc** at the [Geometry of Materials, Packings and Rigid Frameworks](https://icerm.brown.edu/programs/sp-s25){.event-link} program, ICERM, Providence, Rhode Island
+        - February 10--14: **participant** at the [Circle Packings, Minimal Surfaces, and Discrete Differential Geometry](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w1){.event-link} workshop
         - March 17--21: **invited speaker** at the [Matroids, Rigidity, and Algebraic Statistics](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w2){.event-link} workshop
 - **2024**
     - September 2--6: **speaker** at the [NII Shonan Meeting on Theory and Algorithms in Graph Rigidity and Algebraic Statistics](https://shonan.nii.ac.jp/seminars/211/){.event-link}, Shonan Village Center, Shonan, Japan
