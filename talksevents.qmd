@@ -1,7 +1,9 @@
 Selected talks
 ------
 
-
+- **What is... the measurement variety?** ([slides](/files/202503_icerm.pdf){.slide-link})\
+*Workshop on Matroids, Rigidity, and Algebraic Statistics*\
+Providence, Rhode Island, March 17--21, 2025. 
 - **Stress-linked pairs of vertices** ([slides](/files/202409_shonan_longtalk.pdf){.slide-link})\
 *NII Shonan Meeting on Theory and Algorithms in Graph Rigidity and Algebraic Statistics*\
 Shonan, Japan, September 2--6, 2024. 
@@ -33,10 +35,10 @@ Other talks
 
 
 1. Rigidity and reconstruction in matroids of highly connected graphs, seminar of the Egerváry Research Group on Combinatorial Optimization, ELTE, Budapest. October 7, 2024.
-1. Rigidity and reconstruction in matroids of highly connected graphs, NII Shonan Meeting on Theory and Algorithms in Graph Rigidity and Algebraic Statistics, Shonan Village Center, Japan. September 2-6, 2024. ([slides](/files/shonan_shorttalk.pdf))
-6. Graph rigidity and the maximum likelihood threshold, seminar of the Egerváry Research Group on Combinatorial Optimization, ELTE, Budapest. November 8, 2021.
-1. The unlabeled reconstruction problem in one dimension, seminar of the Egerváry Research Group on Combinatorial Optimization, ELTE, Budapest. September 21, 2020. (online)
-7. Global rigidity of unit ball graphs, seminar of the Egerváry Research Group on Combinatorial Optimization, ELTE, Budapest. November 11, 2018.
+2. Rigidity and reconstruction in matroids of highly connected graphs, NII Shonan Meeting on Theory and Algorithms in Graph Rigidity and Algebraic Statistics, Shonan Village Center, Japan. September 2-6, 2024. ([slides](/files/shonan_shorttalk.pdf))
+3. Graph rigidity and the maximum likelihood threshold, seminar of the Egerváry Research Group on Combinatorial Optimization, ELTE, Budapest. November 8, 2021.
+4. The unlabeled reconstruction problem in one dimension, seminar of the Egerváry Research Group on Combinatorial Optimization, ELTE, Budapest. September 21, 2020. (online)
+5. Global rigidity of unit ball graphs, seminar of the Egerváry Research Group on Combinatorial Optimization, ELTE, Budapest. November 11, 2018.
 -->
 
 ::: events
@@ -46,9 +48,10 @@ Events
 
 
 - **2025**
+    - *(planned)* June 16--20: **invited speaker** at the [10th Conference on Geometry: Theory and Applications (CGTA 2025), Kinematics Minisymposium](https://conference.uni-sopron.hu/cgta2025){.event-link}, University of Sopron, Budapest, Hungary
     - *(planned)* May 26--29: **invited speaker** at the [13th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications](https://sites.google.com/view/hj2025/home){.event-link}, Tokyo Institute of Technology, Tokyo, Japan
-    - *(planned)* January 29 -- May 2: **semester postdoc** at the [Geometry of Materials, Packings and Rigid Frameworks](https://icerm.brown.edu/programs/sp-s25){.event-link} program, ICERM, Providence, Rhode Island
-        - *(planned)* March 17--25: **invited speaker** at the [Matroids, rigidity, and algebraic statistics](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w2){.event-link} workshop
+    - January 29 -- May 2: **semester postdoc** at the [Geometry of Materials, Packings and Rigid Frameworks](https://icerm.brown.edu/programs/sp-s25){.event-link} program, ICERM, Providence, Rhode Island
+        - March 17--21: **invited speaker** at the [Matroids, Rigidity, and Algebraic Statistics](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w2){.event-link} workshop
 - **2024**
     - September 2--6: **speaker** at the [NII Shonan Meeting on Theory and Algorithms in Graph Rigidity and Algebraic Statistics](https://shonan.nii.ac.jp/seminars/211/){.event-link}, Shonan Village Center, Shonan, Japan
     - August 19--23: **speaker** at the [2024 Workshop on (Mostly) Matroids](https://indico.ibs.re.kr/e/wmm2024){.event-link}, Institute of Basic Science, Daejeon

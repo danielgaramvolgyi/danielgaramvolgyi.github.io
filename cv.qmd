@@ -32,7 +32,7 @@ algebraic geometry.\
 
 ### Education
 
-- 2019 -- 2024: **PhD in Mathematics**, Eötvös Loránd University, Budapest\
+- 2019 -- 2025: **PhD in Mathematics**, Eötvös Loránd University, Budapest\
     Supervisor: Tibor Jordán &nbsp; &nbsp; &nbsp;  Grade: *summa cum laude*\
     Thesis title: **Unique reconstruction problems in rigidity theory** ([slides](/files/202412_defense.pdf){.slide-link} of defense talk)
 - 2016 -- 2019: **MSc in Mathematics**, Eötvös Loránd University, Budapest\
