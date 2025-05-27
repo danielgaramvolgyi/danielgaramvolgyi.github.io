@@ -13,8 +13,8 @@ My surname is tricky, and I don't mind if you mispronounce it. If you want to, y
 I am a [mathematician]{.my-name}.
 
 I recently defended my PhD at the [Eötvös Loránd University](https://www.math.elte.hu/en/).\
-Currently, I serve as a **semester postdoc** at [ICERM](https://icerm.brown.edu/).\
-In May, I will resume my role as a **research fellow** at the [Alfréd Rényi Institute of Mathematics](https://www.renyi.hu/en).
+Currently, I am a **research fellow** at the [Alfréd Rényi Institute of Mathematics](https://www.renyi.hu/en).\
+Before that, I served as a **semester postdoc** at [ICERM](https://icerm.brown.edu/).
 
 My primary research area is **combinatorial rigidity theory**.\
 Somewhat reductively, it is about a family of particularly interesting matroids, equipped with a particularly interesting representation.
