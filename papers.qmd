@@ -4,8 +4,6 @@ Preprints
 <ol reversed>  
 <li>**Stable cuts, NAC-colourings and flexible realisations of graphs**\
 (with Katie Clinch, John Haslegrave, Tony Huynh, Jan Legerský and Anthony Nixon), 2024. <a href="https://arxiv.org/abs/2412.16018" class="arxiv-link">(arXiv link)</a></li>
-<li>**Towards the Proximity Conjecture on Group-Labeled Matroids**\
-(with Ryuhei Mizutani, Taihei Oki, Tamás Schwarcz and Yutaro Yamaguchi), 2024. <a href="https://arxiv.org/abs/2411.06771" class="arxiv-link">(arXiv link)</a></li>
 <li>**Rigidity and reconstruction in matroids of highly connected graphs**, 2024. <a href="https://arxiv.org/abs/2410.23431" class="arxiv-link">(arXiv link)</a></li>
 <li>**Stress-linked pairs of vertices and the generic stress matroid**, 2023. <a href="https://arxiv.org/abs/2308.16851" class="arxiv-link">(arXiv link)</a></li>
 </ol>  
@@ -41,12 +39,14 @@ Conference papers
 ------
 
 <ol reversed>
+<li>**Towards the proximity conjecture on group-labeled matroids**,\
+*Proceedings of the 52nd International Colloquium on Automata, Languages and Programming (ICALP 2025)*, to appear. <a href="https://arxiv.org/abs/2411.06771" class="arxiv-link">(arXiv link)</a>
+<li> **On the Rigidity Matroid of Highly Connected Graphs**,\
+*Proceedings of the 13th Hungarian–Japanese Symposiumon Discrete Mathematics and Its Applications*, to appear.
 <li>**Algebraic realizations of pairs of closure operators**,\
-*12th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications*, Budapest, 2023.</li>
+*Proceedings of the 12th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications*, 2023.</li>
 <li><a href="https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_47.pdf" class="paper-link">Globally linked pairs in braced maximal outerplanar graphs</a> (with Tibor Jordán),\
-*34th Canadian Conference on Computational Geometry*, Toronto, 2022.</li>
-<li>**Algebraic matroids and global rigidity**,\
-*Developments in Computer Science*, Budapest, 2021.</li>
+*Proceedings of the 34th Canadian Conference on Computational Geometry (CCCG 2022)*, 2022.</li>
 </ol>
 
 

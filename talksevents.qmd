@@ -1,7 +1,10 @@
 Selected talks
 ------
 
-- **What is... the measurement variety?** ([slides](/files/202503_icerm.pdf){.slide-link})\
+- **On the rigidity matroid of highly connected graphs** ([slides](/files/202505_hj.pdf){.slide-link})\
+*13th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications*\
+Tokyo, Japan, May 26--29, 2025.
+- **What is... the measurement variety?** ([slides](/files/202503_icerm.pdf){.slide-link}, [video recording](https://icerm.brown.edu/video_archive/4076){.video-link})\
 *Workshop on Matroids, Rigidity, and Algebraic Statistics*\
 Providence, Rhode Island, March 17--21, 2025. 
 - **Stress-linked pairs of vertices** ([slides](/files/202409_shonan_longtalk.pdf){.slide-link})\
@@ -49,7 +52,7 @@ Events
 
 - **2025**
     - *(planned)* June 16--20: **invited speaker** at the [10th Conference on Geometry: Theory and Applications (CGTA 2025), Kinematics Minisymposium](https://conference.uni-sopron.hu/cgta2025){.event-link}, University of Sopron, Budapest, Hungary
-    - *(planned)* May 26--29: **invited speaker** at the [13th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications](https://sites.google.com/view/hj2025/home){.event-link}, Tokyo Institute of Technology, Tokyo, Japan
+    -  May 26--29: **invited speaker** at the [13th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications](https://sites.google.com/view/hj2025/home){.event-link}, Tokyo Institute of Technology, Tokyo, Japan
     - January 29 -- May 2: **semester postdoc** at the [Geometry of Materials, Packings and Rigid Frameworks](https://icerm.brown.edu/programs/sp-s25){.event-link} program, ICERM, Providence, Rhode Island
         - February 10--14: **participant** at the [Circle Packings, Minimal Surfaces, and Discrete Differential Geometry](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w1){.event-link} workshop
         - March 17--21: **invited speaker** at the [Matroids, Rigidity, and Algebraic Statistics](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w2){.event-link} workshop

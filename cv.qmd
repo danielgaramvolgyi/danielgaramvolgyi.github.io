@@ -1,6 +1,6 @@
 ::: cv
 
-See my full CV [here (pdf)](files/DG_cv_202503.pdf){.paper-link}.
+See my full CV [here (pdf)](files/DG_cv_202505.pdf){.paper-link}.
 
 Short CV
 ------
