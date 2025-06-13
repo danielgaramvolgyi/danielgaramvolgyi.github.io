@@ -39,7 +39,7 @@ Conference papers
 ------
 
 <ol reversed>
-<li>**Towards the proximity conjecture on group-labeled matroids**,\
+<li>**Towards the proximity conjecture on group-labeled matroids** (with Ryuhei Mizutani, Taihei Oki, Tamás Schwarcz and Yutaro Yamaguchi),\
 *Proceedings of the 52nd International Colloquium on Automata, Languages and Programming (ICALP 2025)*, to appear. <a href="https://arxiv.org/abs/2411.06771" class="arxiv-link">(arXiv link)</a>
 <li> **On the Rigidity Matroid of Highly Connected Graphs**,\
 *Proceedings of the 13th Hungarian–Japanese Symposiumon Discrete Mathematics and Its Applications*, to appear.
