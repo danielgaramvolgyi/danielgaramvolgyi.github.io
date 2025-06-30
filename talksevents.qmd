@@ -1,6 +1,9 @@
 Selected talks
 ------
 
+- **Stable cuts, planar rigidity, and global rigidity on the line** ([slides](/files/202506_cgta.pdf){.slide-link})\
+*10th Conference on Geometry: Theory and Applications (CGTA 2025)*\
+Sopron, Hungary, June 16--20, 2025.
 - **On the rigidity matroid of highly connected graphs** ([slides](/files/202505_hj.pdf){.slide-link})\
 *13th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications*\
 Tokyo, Japan, May 26--29, 2025.
@@ -51,7 +54,7 @@ Events
 
 
 - **2025**
-    - *(planned)* June 16--20: **invited speaker** at the [10th Conference on Geometry: Theory and Applications (CGTA 2025), Kinematics Minisymposium](https://conference.uni-sopron.hu/cgta2025){.event-link}, University of Sopron, Budapest, Hungary
+    - June 16--20: **invited speaker** at the Minisymposium on Kinematics, Flexibility and Rigidity at the [10th Conference on Geometry: Theory and Applications (CGTA 2025)](https://conference.uni-sopron.hu/cgta2025){.event-link}, University of Sopron, Budapest, Hungary
     -  May 26--29: **invited speaker** at the [13th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications](https://sites.google.com/view/hj2025/home){.event-link}, Tokyo Institute of Technology, Tokyo, Japan
     - January 29 -- May 2: **semester postdoc** at the [Geometry of Materials, Packings and Rigid Frameworks](https://icerm.brown.edu/programs/sp-s25){.event-link} program, ICERM, Providence, Rhode Island
         - February 10--14: **participant** at the [Circle Packings, Minimal Surfaces, and Discrete Differential Geometry](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w1){.event-link} workshop

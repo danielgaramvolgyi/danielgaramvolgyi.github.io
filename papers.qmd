@@ -33,16 +33,14 @@ Journal Papers
 *SIAM Journal on Discrete Mathematics*, 2020.</li>
 </ol>  
 
-
-
 Conference papers
 ------
 
 <ol reversed>
-<li>**Towards the proximity conjecture on group-labeled matroids** (with Ryuhei Mizutani, Taihei Oki, Tamás Schwarcz and Yutaro Yamaguchi),\
-*Proceedings of the 52nd International Colloquium on Automata, Languages and Programming (ICALP 2025)*, to appear. <a href="https://arxiv.org/abs/2411.06771" class="arxiv-link">(arXiv link)</a>
 <li> **On the Rigidity Matroid of Highly Connected Graphs**,\
-*Proceedings of the 13th Hungarian–Japanese Symposiumon Discrete Mathematics and Its Applications*, to appear.
+*Proceedings of the 13th Hungarian–Japanese Symposium on Discrete Mathematics and Its Applications*, to appear.
+<li><a href="https://doi.org/10.4230/LIPIcs.ICALP.2025.85" class="paper-link">Towards the proximity conjecture on group-labeled matroids</a> (with Ryuhei Mizutani, Taihei Oki, Tamás Schwarcz and Yutaro Yamaguchi),\
+*52nd International Colloquium on Automata, Languages and Programming (ICALP 2025), Leibniz International Proceedings in Informatics (LIPIcs)*, 2025. <a href="https://arxiv.org/abs/2411.06771" class="arxiv-link">(arXiv link)</a>
 <li>**Algebraic realizations of pairs of closure operators**,\
 *Proceedings of the 12th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications*, 2023.</li>
 <li><a href="https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_47.pdf" class="paper-link">Globally linked pairs in braced maximal outerplanar graphs</a> (with Tibor Jordán),\
