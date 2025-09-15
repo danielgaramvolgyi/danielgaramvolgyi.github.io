@@ -43,7 +43,7 @@ Conference papers
 *Proceedings of the 13th Hungarian–Japanese Symposium on Discrete Mathematics and Its Applications*, 2025.
 <li><a href="https://doi.org/10.4230/LIPIcs.ICALP.2025.85" class="paper-link">Towards the proximity conjecture on group-labeled matroids</a> (with Ryuhei Mizutani, Taihei Oki, Tamás Schwarcz and Yutaro Yamaguchi),\
 *52nd International Colloquium on Automata, Languages and Programming (ICALP 2025), Leibniz International Proceedings in Informatics (LIPIcs)*, 2025. <a href="https://arxiv.org/abs/2411.06771" class="arxiv-link">(arXiv link)</a>
-<li>**Algebraic realizations of pairs of closure operators**,\
+<li><a href="https://cs.bme.hu/jh2023/kotet23.pdf#page=175" class="paper-link">Algebraic realizations of pairs of closure operators</a>,\
 *Proceedings of the 12th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications*, 2023.</li>
 <li><a href="https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_47.pdf" class="paper-link">Globally linked pairs in braced maximal outerplanar graphs</a> (with Tibor Jordán),\
 *Proceedings of the 34th Canadian Conference on Computational Geometry (CCCG 2022)*, 2022.</li>
