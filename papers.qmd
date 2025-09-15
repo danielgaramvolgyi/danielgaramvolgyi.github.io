@@ -39,8 +39,8 @@ Conference papers
 ------
 
 <ol reversed>
-<li> **On the Rigidity Matroid of Highly Connected Graphs**,\
-*Proceedings of the 13th Hungarian–Japanese Symposium on Discrete Mathematics and Its Applications*, to appear.
+<li><a href="files/Garamvolgyi - On the Rigidity Matroid of Highly Connected Graphs (2025).pdf" class="paper-link">On the Rigidity Matroid of Highly Connected Graphs</a>,\
+*Proceedings of the 13th Hungarian–Japanese Symposium on Discrete Mathematics and Its Applications*, 2025.
 <li><a href="https://doi.org/10.4230/LIPIcs.ICALP.2025.85" class="paper-link">Towards the proximity conjecture on group-labeled matroids</a> (with Ryuhei Mizutani, Taihei Oki, Tamás Schwarcz and Yutaro Yamaguchi),\
 *52nd International Colloquium on Automata, Languages and Programming (ICALP 2025), Leibniz International Proceedings in Informatics (LIPIcs)*, 2025. <a href="https://arxiv.org/abs/2411.06771" class="arxiv-link">(arXiv link)</a>
 <li>**Algebraic realizations of pairs of closure operators**,\
