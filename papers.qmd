@@ -2,10 +2,12 @@ Preprints
 ------
 
 <ol reversed>  
+<li>**Sparsity, stress-independence and globally linked pairs in graph rigidity theory**\
+(with Bill Jackson and Tibor Jordán), 2025. <a href="https://arxiv.org/abs/2509.03150" class="arxiv-link">(arXiv link)</a></li>
 <li>**Stable cuts, NAC-colourings and flexible realisations of graphs**\
 (with Katie Clinch, John Haslegrave, Tony Huynh, Jan Legerský and Anthony Nixon), 2024. <a href="https://arxiv.org/abs/2412.16018" class="arxiv-link">(arXiv link)</a></li>
 <li>**Rigidity and reconstruction in matroids of highly connected graphs**, 2024. <a href="https://arxiv.org/abs/2410.23431" class="arxiv-link">(arXiv link)</a></li>
-<li>**Stress-linked pairs of vertices and the generic stress matroid**, 2023. <a href="https://arxiv.org/abs/2308.16851" class="arxiv-link">(arXiv link)</a></li>
+<li>**Stress-linked pairs of vertices and the generic stress matroid**, 2023. <a href="https://arxiv.org/abs/2308.16851v2" class="arxiv-link">(arXiv link)</a></li>
 </ol>  
 
 
