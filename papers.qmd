@@ -2,6 +2,8 @@ Preprints
 ------
 
 <ol reversed>  
+<li>**Sufficient conditions for bipartite rigidity, symmetric completability and hyperconnectivity of graphs**\
+(with Bill Jackson, Tibor Jordán and Soma Villányi), 2025. <a href="https://arxiv.org/abs/2511.00298" class="arxiv-link">(arXiv link)</a></li>
 <li>**Sparsity, stress-independence and globally linked pairs in graph rigidity theory**\
 (with Bill Jackson and Tibor Jordán), 2025. <a href="https://arxiv.org/abs/2509.03150" class="arxiv-link">(arXiv link)</a></li>
 <li>**Stable cuts, NAC-colourings and flexible realisations of graphs**\
