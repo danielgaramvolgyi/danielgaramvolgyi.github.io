@@ -62,7 +62,7 @@ Events
 ------
 
 - **2026**
-  - *(planned)* July 13--18: **participant** at the [19th Emléktábla Workshop](https://www.renyi.hu/~emlektab/index.html){.event-link}, Velence, Hungary
+  - July 13--18: **participant** at the [19th Emléktábla Workshop](https://www.renyi.hu/~emlektab/index.html){.event-link}, Velence, Hungary
   - May 18--22: **invited speaker** at the [Rigid structures in algebraic combinatorics and algebraic statistics](https://icms.ac.uk/activities/workshop/rigid_structures_in_algebraic_combinatorics_algebraic_statistics/){.event-link} workshop, ICMS, Edinburgh, United Kingdom
   - May 11--15: **speaker** at the [Rigidity, Algebraic Statistics and Topological Data Analysis](https://sites.google.com/view/alisonlaporta/rigidity-algebraic-statistics-and-topological-data-analysis){.event-link}, University of St Andrews, St Andrews, UK
   - January 18--23: **participant** at the [BIRS-CMI Workshop on Rigidity, Flexibility and Complexity of Geometric Constraint Systems](https://www.birs.ca/events/2026/5-day-workshops/26w5578){.event-link}, Chennai Mathematical Institute, Chennai, India
