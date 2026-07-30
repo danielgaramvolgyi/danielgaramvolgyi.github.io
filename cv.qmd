@@ -1,6 +1,6 @@
 ::: cv
 
-See my full CV [here (pdf)](files/DG_cv_202605.pdf){.paper-link}.
+See my full CV [here (pdf)](files/DG_cv_202607.pdf){.paper-link}.
 
 Short CV
 ------
@@ -48,11 +48,11 @@ algebraic geometry.\
 ### Awards and Grants
 
 <!-- - July 2024: [Research-in-Groups](https://www.icms.org.uk/funding-opportunities/research-groups-rigs) -->
-- September 2024: **HUN-REN Mobility Program** travel grant
-- December 2023: **Géza Grünwald Commemorative Prize** of the János Bolyai Mathematical Society
-- January 2023: **Focus Program on Geometric Constraint Systems** travel grant
+- 2026: **Bolyai János Research Scholarship** of the Hungarian Academy of Sciences
+- 2024: **HUN-REN Mobility Program** travel grant
+- 2023: **Géza Grünwald Commemorative Prize** of the János Bolyai Mathematical Society
+- 2023: **Focus Program on Geometric Constraint Systems** travel grant
 - 2019, 2021, 2022: **New National Excellence Programme (ÚNKP)** research grant
 - 2018 – 2021: **Human Resources Development Operational Programme (EFOP)** scholarship
-
 
 :::

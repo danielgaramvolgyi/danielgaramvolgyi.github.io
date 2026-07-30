@@ -12,9 +12,9 @@ My name is [Dániel Garamvölgyi]{.my-name}.^[You can safely disregard the accen
 My surname is tricky, and I don't mind if you mispronounce it. If you want to, you can <a href=https://forvo.com/word/garamv%C3%B6lgyi/ target="_blank">listen to the correct pronunciation on forvo</a>.]\
 I am a [mathematician]{.my-name}.
 
-I recently defended my PhD at the [Eötvös Loránd University](https://www.math.elte.hu/en/).\
-Currently, I am a **research fellow** at the [Egerváry Research Group on Combinatorial Optimization](https://egres.elte.hu/).\
-Before that, I served as a research fellow at the [Alfréd Rényi Institute of Mathematics](https://www.renyi.hu/en).
+I am a **research fellow** in the Department of Operations Research at [Eötvös Loránd University](https://www.math.elte.hu/en/), and a member of the [Egerváry Research Group on Combinatorial Optimization](https://egres.elte.hu/).\
+Before that, I was a research fellow at the [Alfréd Rényi Institute of Mathematics](https://www.renyi.hu/en).\
+I obtained my PhD at Eötvös Loránd University in 2025 under the supervision of Tibor Jordán.
 
 My primary research area is **combinatorial rigidity theory**.\
 Somewhat reductively, it is about a family of particularly interesting matroids, equipped with a particularly interesting representation.
