@@ -1,6 +1,9 @@
 Selected talks
 ------
 
+- **Reconstructing point sets from unlabeled distance measurements** ([slides](/files/202609_lancaster.pdf){.slide-link})\
+*Rigidity Theory: Structures, Data, and Control*\
+Lancaster, United Kingdom, September 14--18, 2026.
 - **Graph matroid families** ([slides](/files/202605_icms.pdf){.slide-link})\
 *Workshop on Rigid structures in algebraic combinatorics and algebraic statistics*\
 Edinburgh, United Kingdom, May 18--22, 2026.
@@ -62,9 +65,10 @@ Events
 ------
 
 - **2026**
+  - September 14--18: **speaker** at the [Rigidity Theory: Structures, Data, and Control](https://sites.google.com/view/rigidityworkshop2026/){.event-link} workshop, Lancaster University, Lancaster, United Kingdom
   - July 13--18: **participant** at the [19th Emléktábla Workshop](https://www.renyi.hu/~emlektab/index.html){.event-link}, Velence, Hungary
   - May 18--22: **invited speaker** at the [Rigid structures in algebraic combinatorics and algebraic statistics](https://icms.ac.uk/activities/workshop/rigid_structures_in_algebraic_combinatorics_algebraic_statistics/){.event-link} workshop, ICMS, Edinburgh, United Kingdom
-  - May 11--15: **speaker** at the [Rigidity, Algebraic Statistics and Topological Data Analysis](https://sites.google.com/view/alisonlaporta/rigidity-algebraic-statistics-and-topological-data-analysis){.event-link}, University of St Andrews, St Andrews, UK
+  - May 11--15: **speaker** at the [Rigidity, Algebraic Statistics and Topological Data Analysis](https://sites.google.com/view/alisonlaporta/rigidity-algebraic-statistics-and-topological-data-analysis){.event-link} workshop, University of St Andrews, St Andrews, United Kingdom
   - January 18--23: **participant** at the [BIRS-CMI Workshop on Rigidity, Flexibility and Complexity of Geometric Constraint Systems](https://www.birs.ca/events/2026/5-day-workshops/26w5578){.event-link}, Chennai Mathematical Institute, Chennai, India
 - **2025**
     - November 24--28: **participant** at the [Conference on Combinatorial Geometries and Geometric Combinatorics](https://www.crm.cat/conferenceirpmdm2025/){.event-link}, CRM, Barcelona, Spain

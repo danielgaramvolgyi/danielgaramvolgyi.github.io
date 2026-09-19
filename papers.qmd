@@ -4,8 +4,6 @@ Preprints
 <ol reversed>  
 <li>**Sufficient conditions for bipartite rigidity, symmetric completability and hyperconnectivity of graphs**
 (with Bill Jackson, Tibor Jordán and Soma Villányi), 2025. <a href="https://arxiv.org/abs/2511.00298" class="arxiv-link">(arXiv link)</a></li>
-<li>**Sparsity, stress-independence and globally linked pairs in graph rigidity theory**
-(with Bill Jackson and Tibor Jordán), 2025. <a href="https://arxiv.org/abs/2509.03150" class="arxiv-link">(arXiv link)</a></li>
 <li>**Stress-linked pairs of vertices and the generic stress matroid**, 2023. <a href="https://arxiv.org/abs/2308.16851v2" class="arxiv-link">(arXiv link)</a></li>
 </ol>  
 
@@ -14,6 +12,8 @@ Journal Papers
 ------
 
 <ol reversed> 
+<li><a href="https://doi.org/10.1093/imrn/rnag201" class="paper-link">Sparsity, stress-independence and globally linked pairs in graph rigidity theory</a> (with Bill Jackson and Tibor Jordán),\
+*International Mathematics Research Notices*, 2026. <a href="https://arxiv.org/abs/2509.03150" class="arxiv-link">(arXiv link)</a></li>
 <li><a href="https://doi.org/10.1002/jgt.70064" class="paper-link">Stable cuts, NAC-colourings and flexible realisations of graphs</a> (with Katie Clinch, John Haslegrave, Tony Huynh, Jan Legerský and Anthony Nixon),\
 *Journal of Graph Theory*, 2026. <a href="https://arxiv.org/abs/2412.16018" class="arxiv-link">(arXiv link)</a></li>
 <li><a href="https://doi.org/10.1016/j.jctb.2026.01.003" class="paper-link">Rigidity and reconstruction in matroids of highly connected graphs</a>,\
